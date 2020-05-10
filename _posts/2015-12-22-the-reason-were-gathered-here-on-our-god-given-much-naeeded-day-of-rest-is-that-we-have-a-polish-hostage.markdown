@@ -2,6 +2,8 @@
 layout: post
 title: The reason we're gathered here on our God-given, much-naeeded day
 tags: [frontpage, jekyll, blog]
+featured: true
+author: adib
 image: '/images/posts/8.jpg'
 ---
 
