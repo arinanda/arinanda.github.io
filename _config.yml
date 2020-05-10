@@ -11,9 +11,9 @@ email:       ''
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'https://arinanda.github.io/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
-instagram:   ''
+twitter:     'https://twitter.com/adibarinanda'
+github:      'https://github.com/arinanda'
+instagram:   'https://www.instagram.com/adibarinanda/'
 facebook:    ''
 
 markdown:  kramdown
