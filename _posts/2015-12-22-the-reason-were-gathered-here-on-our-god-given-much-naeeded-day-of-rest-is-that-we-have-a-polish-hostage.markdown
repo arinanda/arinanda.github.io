@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The reason we're gathered here on our God-given, much-naeeded day
+title: The reason we're gathered here on our God-given, much-naeeded day featured buat apa ya
 tags: [frontpage, jekyll, blog]
 featured: true
 author: adib

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Type</title>
+    <title>Test</title>
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 May 2020 15:35:45 +0700</pubDate>
-    <lastBuildDate>Thu, 07 May 2020 15:35:45 +0700</lastBuildDate>
+    <pubDate>Sun, 10 May 2020 13:45:24 +0700</pubDate>
+    <lastBuildDate>Sun, 10 May 2020 13:45:24 +0700</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
       <item>
-        <title>The reason we're gathered here on our God-given, much-naeeded day</title>
+        <title>The reason we're gathered here on our God-given, much-naeeded day featured buat apa ya</title>
         <description>&lt;p&gt;I can remember about 4 years ago, I started to make HTML templates for ThemeForest. Unfortunately, I failed to pass the quality stage and I was not getting enough feedback from them. I was getting a general sentence saying that my item is not ready yet and the design quality is not unique enough.&lt;/p&gt;
 
 &lt;p&gt;Fortunately, I succeed this time I have leaned and done things I have never done before that keeps me learn new stuff every single day and I want to share with you some tips about starting your own business creating themes like WordPress, Ghost, or Jekyll. I think these tips will work with any online business not only for themes.&lt;/p&gt;
